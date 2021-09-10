@@ -32,7 +32,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="vertical-align:top; margin:4px"/></a>
 </p>
 
- <p align="left"><img src="https://user-images.githubusercontent.com/25082052/132903095-d3052915-a650-436f-ad1f-419f48b56958.png" alt="stars" height="40" style="vertical-align:top; margin:4px"> My Github Stats:</p>
+## <p align="left"><img src="https://user-images.githubusercontent.com/25082052/132903095-d3052915-a650-436f-ad1f-419f48b56958.png" alt="stars" width="30" height="30" style="vertical-align:top; margin:4px">My Github Stats:</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PKrupa94&show_icons=true&theme=blueberry )
 
