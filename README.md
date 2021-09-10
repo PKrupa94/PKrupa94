@@ -37,7 +37,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PKrupa94&show_icons=true&theme=blueberry )
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKrupa94&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/langs/?username=PKrupa94&theme=blueberry)
 
 
 
