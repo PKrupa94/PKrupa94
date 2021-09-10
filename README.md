@@ -34,8 +34,9 @@
 
 ## <p align="left"><img src="https://user-images.githubusercontent.com/25082052/132903095-d3052915-a650-436f-ad1f-419f48b56958.png" alt="stars" width="30" height="25"> My Github Stats:</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PKrupa94&show_icons=true&theme=blueberry )
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=PKrupa94&show_icons=true&theme=blueberry" alt="krupaptl" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PKrupa94&theme=blueberry" alt="krupaptl" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKrupa94&theme=blueberry)
+
 
 
